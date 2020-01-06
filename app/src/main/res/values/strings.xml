@@ -1,0 +1,129 @@
+<resources>
+    <array name="data_poster">
+        <item>@drawable/tmii</item>
+        <item>@drawable/pantai_ancol</item>
+        <item>@drawable/ocean_dream_samudra</item>
+        <item>@drawable/dufan</item>
+        <item>@drawable/allianz_ecopark</item>
+        <item>@drawable/alive_museum</item>
+        <item>@drawable/pasar_seni_ancol</item>
+        <item>@drawable/pantai_marunda</item>
+        <item>@drawable/waterbom</item>
+        <item>@drawable/taman_mangrove</item>
+        <item>@drawable/ragunan</item>
+        <item>@drawable/museum_nasional</item>
+        <item>@drawable/museum_fatahillah</item>
+        <item>@drawable/museum_wayang</item>
+        <item>@drawable/monas</item>
+        <item>@drawable/masjid_istiqlal</item>
+        <item>@drawable/gereja_katedral</item>
+        <item>@drawable/kelenteng_jin_de_yuan</item>
+        <item>@drawable/ps_tanah_abang</item>
+        <item>@drawable/museum_tekstil</item>
+        <item>@drawable/kuliner_malam_pecenongan</item>
+        <item>@drawable/kawasan_kuliner_bsm</item>
+        <item>@drawable/pulau_tidung</item>
+        <item>@drawable/pulau_semakdaun</item>
+        <item>@drawable/pulau_bidadari</item>
+    </array>
+
+    <string name="app_name">Katalog Wisata Jakarta</string>
+
+    <string-array name="data_deskripsi">
+        <item>Taman Mini Indonesia Indah adalah taman hiburan ikonik bertemakan Indonesia yang populer sejak tahun 90-an. Pengunjung bisa menikmati berbagai wahana dan fasilitas seperti misalnya Anjungan Daerah, kereta gantung, Teater 4D, museum, Teater IMAX Keong Mas, dan masih banyak lagi. Semua fasilitas, bangunan, wahana, dan dekorasi di tempat wisata di Jakarta ini merupakan miniatur dari 33 provinsi di Indonesia.\n
+            Taman Mini Indonesia Indah cocok untuk semua umur, terutama pelancong yang membawa anak. Lokasinya juga terbilang strategis dan mudah dicapai dengan kendaraan umum seperti KRL dan Bus Trans Jakarta. Taman Mini Indonesia Indah buka dari pukul 07:00 hingga pukul 21:00.</item>
+        <item>Pantai Ancol adalah jalur pantai wisata yang terdiri dari lima pantai, yaitu Pantai Indah, Elok, Ria, Festival Ancol, dan Karnaval Ancol. Tempat wisata di Jakarta yang satu ini buka selama 24 jam dan menawarkan panorama indah, tempat makan, serta lokasi ideal untuk melihat matahari terbit atau terbenam. Pengunjung bisa berfoto, bermain pasir, jogging, atau makan di salah satu restoran yang ada di kawasan wisata terpadu ini. Berbagai titik di tempat wisata di Jakarta yang satu ini juga cocok untuk meramaikan album Instagram Anda.\n
+            Pantai Ancol cukup bersih dan memiliki fasilitas wisata lengkap. Areanya juga dekat dengan berbagai tempat hiburan, seperti misalnya Seaworld dan Dunia Fantasi. Pantai Ancol mudah dicapai dengan menggunakan kendaraan umum, misalnya dengan menggunakan Trans Jakarta dan angkutan umum jurusan Ancol.</item>
+        <item>Ocean Dream Samudra, atau dikenal juga dengan nama Gelanggang Samudra, adalah tempat wisata di Jakarta yang bertemakan laut dan berada di kawasan Taman Impian Jaya Ancol. Gelanggang Samudra menawarkan atraksi hewan-hewan seperti lumba-lumba dan singa laut, Taman Surga Burung, pertunjukan menegangkan seperti Scorpion Rides, hingga wahana bermain seperti Ubur-Ubur dan Boto-Boto.\n
+            Ocean Dream Samudra memiliki fasilitas wisata lengkap, di antaranya beberapa pusat kuliner, tempat ibadah, toilet, dan klinik. Kios minuman dan es krim juga ada di beberapa titik di area tempat wisata di Jakarta ini. Ada juga jalur jalan kaki yang cukup luas di antara tiap wahana, lengkap dengan pepohonan dan taman, sehingga memberi kenyamanan untuk keluarga yang sedang menikmati libur di tempat wisata di Jakarta yang satu ini.\n
+            Pengunjung dapat mencapai lokasi tempat wisata di Jakarta ini dengan beberapa jenis moda transportasi, seperti misalnya KRL, bus Trans Jakarta koridor 1 dan 5, serta bus kota biasa jurusan Ancol. Ocean Dream Samudra buka setiap hari pada pukul 09:00, dan tutup pada pukul 17:00 (pukul 18:00 pada akhir pekan).</item>
+        <item>Dunia Fantasi adalah taman hiburan keluarga di area Taman Impian Jaya Ancol. Taman ini menawarkan beragam wahana, mulai dari yang menegangkan seperti Tornado, Halilintar dan Hysteria, hingga yang cocok untuk semua umur seperti Rumah Miring, Poci-Poci, Turangga Rangga, dan Pontang-Pontang.\n
+            Tempat wisata di Jakarta ini juga menawarkan wahana dengan tema khusus, misalnya Ice Age Arctic Adventure, Treasureland, Dufan Glow, Fantasy Lights: Magic of Dufan, dan Hello Kitty Adventure. Efek suara, cahaya, dan penampilan dari robot animatronik serta aktor akan membuat wahana-wahana ini semakin meriah. Tiket untuk wahana-wahana bertema ini bisa dipesan secara online, untuk menghindari antrean.\n
+            Pengunjung bisa mencapai Dunia Fantasi dengan cara yang sama dengan menuju ke Taman Impian Jaya Ancol dan Ocean Dream Samudra. Dunia Fantasi buka setiap hari dari pukul 10:00 hingga 18:00. Pada akhir pekan, Dufan buka hingga pukul 20:00.</item>
+        <item>Allianz Ecopark, atau dikenal juga dengan nama Ocean Ecopark, adalah taman wisata alam dan keluarga di kawasan Taman Impian Jaya Ancol. Taman ini dikelilingi pepohonan rindang dan sungai yang asri. Selain itu, terdapat jalur untuk berolahraga, taman bermain, danau wisata, kebun binatang mini, gazebo untuk santai, serta kano dan perahu kayuh.\n
+            Pengunjung bisa bermain sambil belajar di tempat-tempat seperti Rumah Lebah, Faunaland, dan Rumah Energi. Outbondholic serta arena paintball juga akan memberi kesenangan seru untuk semua umur. Ada juga Learning Farm yang menawarkan paket belajar bercocok tanam untuk anak-anak. Fasilitas Eco-market dan kedai makanan pun akan melengkapi keseruan di tempat wisata di Jakarta ini.\n
+            Allianz Ecopark buka setiap hari mulai dari pukul 06:00 hingga pukul 18:00, tetapi setiap wahana memiliki jam buka-tutup yang berbeda, seperti misalnya jam 08:00-16:00 untuk arena paintball dan Learning Farm, serta 09:30-17:30 untuk Faunaland.</item>
+        <item>Berlokasi di Taman Impian Jaya Ancol, Alive Museum adalah jaringan museum visual unik dari Korea yang menghadirkan patung lilin tokoh-tokoh terkenal, mirip dengan Museum Madam Tussaud yang berada di Bangkok, Hong Kong, China, Jepang, dan Singapura. Berbagai patung tersebut menggambarkan tokoh dunia hiburan terkenal, mulai dari penyanyi pop Korea hingga penyanyi barat ternama dan bintang Hollywood. Ada juga koleksi ilusi visual dengan gambar-gambar kreatif, sehingga tempat wisata ini cocok untuk mengisi album Instagram Anda.\n
+            Alive Museum buka dari Hari Selasa sampai hari Minggu, pukul 10:00 hingga 21:00. Tempat wisata di Jakarta yang satu ini hanya buka pada hari Senin jika hari tersebut bertepatan dengan hari libur nasional.</item>
+        <item>Pasar Seni Ancol adalah pusat wisata seni, budaya, dan belanja, dikemas dalam desain mirip taman hiburan keluarga. Pasar Seni Ancol merupakan tempat bagi para seniman dan perajin untuk memamerkan serta menjual hasil karya mereka. Pengunjung juga bisa mengunjungi berbagai studio seni dan melihat proses pembuatan suatu karya seni.\n
+            Pasar Seni Ancol memamerkan dan menjual barang-barang seperti lukisan, wayang, hiasan dinding, dan sebagainya. Ada juga patung-patung unik yang menghiasi berbagai sudut taman. Selain itu, pengunjung juga bisa menikmati pertunjukan seni dan musik dari berbagai komunitas. Salah satu pertunjukan yang diadakan secara rutin di Pasar Seni adalah malam Jazz, yang diadakan setiap Jumat pada pukul 19:30 hingga 22:30.\n
+            Karena berada di dalam kawasan Taman Impian Jaya Ancol, pengunjung tidak perlu membayar lagi untuk masuk ke area Pasar Seni.</item>
+        <item>Pantai Marunda sering kali menjadi tujuan wisata warga lokal di Jakarta Utara, dengan nuansa yang lebih sederhana ketimbang Ancol. Pemandangan di tempat wisata di Jakarta Utara ini cukup indah, dan suasananya relatif tidak ramai. Daya tarik utamanya adalah objek wisata sejarah yang berada di dekatnya, yaitu rumah pahlawan Betawai Si Pitung serta Masjid Al-Alam.\n
+            Pantai Marunda bisa dikunjungi kapan saja secara gratis. Pengunjung bisa menyewa perahu nelayan untuk menyusuri garis pantai, dengan tarif yang relatif murah (pastikan untuk menyepakati tarif sebelum naik). Pengunjung yang tidak mengemudi sendiri bisa naik angkutan umum rute Priok – Cilincing, disambung dengan angkutan lokal nomor KWK U05 (warna merah). Berhenti di depan bangunan STIP, lalu jalan kaki hingga mencapai pantai.</item>
+        <item>Waterbom adalah taman wisata air populer yang berlokasi di Pantai Indah Kapuk. Waterbom menawarkan berbagai wahana kolam renang untuk semua umur, dengan tingkat ketegangan yang beragam. Tempat wisata di Jakarta yang satu ini memiliki fasilitas lengkap dan lokasi strategis, serta staff profesional yang akan memastikan setiap wahana memenuhi standar keamanan setiap saat.\n
+            Waterbom Jakarta menawarkan wahana seru seperti misalnya Twizter, Speedslide, dan The Hairpin. Salah satu wahana ikoniknya adalah Aquatube, seluncuran raksasa berkelok sepanjang 118 meter. Ada juga wahana yang cocok untuk pengunjung cilik, seperti kolam renang dangkal, ember curah, dan kolam arus yang santai. Fasilitas penunjang kenyamanan yang tersedia antara lain ruang ganti baju, pancuran, kedai, toilet, dan beberapa tempat bersantai.\n
+            Waterbom Jakarta buka setiap hari, dari pukul 06:00 hingga 18:00. Pengunjung yang tidak menyetir mobil sendiri bisa naik bus Trans Jakarta ke Pluit Village Mall, dan lanjut naik angkutan umum rute Grogol – Angke (B01) untuk turun di Pantai Indah Kapuk.</item>
+        <item>Taman Wisata Alam Mangrove Angke Kapuk juga berlokasi di sekitar Pantai Indah Kapuk. Area ini berupa hutan bakau yang dikelilingi perairan. Pengunjung bisa naik perahu bersama pemandu untuk melihat pemandangan hutan bakau, serta menemukan biawak yang banyak berkeliaran di area tersebut. Pengunjung juga bisa menikmati kesejukan hutan bakau sambil berjalan menyusuri jembatan.\n
+            Tempat wisata di Jakarta yang satu ini memiliki fasilitas cukup lengkap, seperti restoran, penginapan bergaya tradisional, dan tempat bersantai. Pengunjung juga bisa ikut melestarikan lingkungan dengan menanam pohon bakau, cukup dengan membayar biaya murah untuk satu bibit. Menanam pohon juga sering menjadi kegiatan wisata kelompok, misalnya di kalangan siswa sekolah, mahasiswa, atau karyawan.\n
+            Tempat wisata di Jakarta ini buka setiap hari dari pukul 07:00 hingga 18:00. Taman wisata ini dapat dicapai dengan bus kota jurusan Grogol atau Trans Jakarta (koridor 9A). Dari Grogol, pengunjung harus naik angkutan umum lagi ke Angke Kapuk.</item>
+        <item>Kebun Binatang Ragunan adalah tujuan wisata keluarga dan edukasi yang cocok untuk semua umur. Ragunan tidak hanya menyimpan koleksi lebih dari 290 spesies hewan, tetapi juga berbagai fasilitas hiburan serta pendidikan.\n
+            Saat ini, Ragunan memiliki Dunia Orang Utan serta Pusat Primata Schmutzer, fasilitas edukasi tentang primata. Selain museum serta pusat informasi, pengunjung juga bisa berinteraksi dengan orang utan hidup. Ada juga taman bermain serta Children Zoo, yaitu kebun binatang mini tempat anak-anak bisa berinteraksi dengan hewan-hewan jinak kecil.\n
+            Tempat wisata di Jakarta Selatan yang satu ini buka setiap hari, dari pukul 09:00 hingga 16:00. Lokasi kebun binatang ini cukup strategis, dan dapat dicapai dengan Trans Jakarta, angkutan umum, maupun berbagai macam transportasi online.</item>
+        <item>Museum Nasional Indonesia adalah museum di Jakarta Pusat yang menyimpan koleksi prasasti, arca, senjata tradisional, tekstil, gerabah, manuskrip, hasil penggalian arkeologis, serta benda kuno lainnya dari berbagai wilayah Nusantara. Tempat wisata di Jakarta Pusat ini berdiri sejak tahun 1778, dan kini terkenal sebagai salah satu museum terbesar di Asia Tenggara. Museum Nasional juga dikenal sebagai “Museum Gajah”, karena patung gajah yang ada di halamannya.\n
+            Museum Nasional Indonesia menawarkan kegiatan edukasi seni dan sejarah bagi masyarakat setiap akhir pekan. Pengunjung bisa belajar tari tradisional dan membatik, atau menonton pentas seni serta dongeng. Tempat wisata di Jakarta yang satu ini buka sejak pukul 08:30 hingga 16:00, tetapi pada hari Jumat, museum ini tutup pada pukul 11:30. Selain itu, Museum Nasional juga tidak beroperasi pada hari Senin.\n
+            Pengunjung yang ingin datang ke tempat wisata di Jakarta ini bisa menggunakan bus Trans Jakarta jurusan Kota atau kereta komuter yang berhenti di Stasiun Gambir.</item>
+        <item>Museum Fatahillah adalah nama populer untuk Museum Sejarah Jakarta. Berdiri sejak tahun 1712, tempat wisata di Jakarta ini menyimpan benda-benda peninggalan era Kerajaan Pajajaran dan Tarumanegara, koleksi becak dari berbagai era, produk kebudayaan Betawai, dan peninggalan sejarah era kolonial. Ada juga koleksi perabot kuno dengan berbagai gaya, mulai dari Jawa, Tiongkok, hingga Belanda.\n
+            Museum Fatahillah juga memiliki program edukasi sejarah dan budaya, seperti misalnya Program Kesenian Nusantara, seminar museum sejarah, hingga kegiatan rekonstruksi sejarah. Museum ini juga populer sebagai lokasi foto prewedding karena pemandangan latar belakang foto yang ditawarkan sangatlah khas. Tempat wisata di Jakarta ini buka setiap hari kecuali Senin, dari pukul 09:00 hingga 17:00.\n
+            Pengunjung yang tidak membawa kendaraan pribadi bisa naik KRL atau bus Trans Jakarta jurusan Kota, turun di Stasiun Kota, lalu jalan kaki sedikit untuk menuju ke kawasan Kota Tua.</item>
+        <item>Museum Wayang berada di kawasan Kota Tua, tidak jauh dari Museum Fatahillah. Museum ini menyimpan koleksi wayang dari berbagai daerah di Indonesia, seperti misalnya wayang kulit, wayang golek, dan wayang boneka. Di tempat wisata di Jakarta ini, pengunjung juga bisa melihat koleksi wayang dari negara-negara tetangga Indonesia, seperti Malaysia, Vietnam, Thailand, China, India, dan Kamboja.\n
+            Museum ini memiliki bangunan khas Eropa era kolonial, namun lebih berkesan “rumahan” bila dibandingkan dengan Museum Fatahillah. Selain koleksi wayang, pengunjung juga bisa menyaksikan teater serta proses pembuatan wayang. Museum Wayang juga menawarkan berbagai kegiatan untuk menambah wawasan pengunjung, melalui kursus singkat membuat wayang.\n
+            Museum Wayang buka setiap hari kecuali hari Senin, mulai dari pukul 09:00 hingga 22:00.</item>
+        <item>Tugu Monumen Nasional (Monas) adalah tujuan “wajib” warga luar Jakarta untuk berfoto. Monas dikelilingi oleh taman yang asri di bagian luarnya, dan pada bagian dalamnya menunjukkan diorama perjuangan bangsa Indonesia dalam meraih kemerdekaan. Ada juga lift yang akan membawa pengunjung untuk naik ke puncak tugu dan memandang panorama Jakarta dari ketinggian.\n
+            Sejak tahun 2016, pemerintah provinsi DKI Jakarta membuka Monumen Nasional pada malam hari, sehingga pengunjung bisa menikmati wisata malam. Pengunjung bisa masuk ke kawasan tempat wisata di Jakarta ini dengan menggunakan kereta wisata dari Pintu Lenggang Jakarta, terutama pada malam hari. Pengunjung yang lapar bisa makan di kedai-kedai makanan di sekitar Monas.\n
+            Monumen Nasional dibuka setiap hari pada pukul 08:00, dan tutup pada pukul 22:00 (pukul 00:00 pada akhir pekan). Tetapi, lift menuju puncak Monas hanya beroperasi hingga pukul 16:00, dan kemudian mulai melayani pengunjung lagi pada pukul 18:30 dengan kuota 500 orang. Hal ini untuk menjaga kondisi lift serta memberi kesempatan untuk pemeliharaan teknis.\n
+            Lokasi Monas cukup strategis karena berada di tengah kota, tidak jauh dari Stasiun Gambir. Pengunjung bisa naik TransJakarta jurusan Blok M – Kota (koridor 1), KRL, serta Kereta Komuter Jabodetabek.</item>
+        <item>Masjid Istiqlal adalah salah satu ikon Jakarta yang lokasinya berdekatan dengan Istana Negara dan Monumen Nasional. Diresmikan pada tahun 1978, masjid terbesar di Asia Tenggara ini merupakan “Masjid Nasional” yang dibangun untuk memperingati kemerdekaan Indonesia. Arsitekturnya megah dan sering menjadi objek foto fotografer nasional maupun internasional.\n
+            Masjid ini tidak hanya indah, tetapi juga nyaman dan mampu menampung sekitar 200.000 orang. Masjid Istiqlal buka selama 24 jam untuk umat Muslim yang ingin beribadah. Pengunjung juga dapat berfoto di area masjid, dan beristirahat sejenak selama berjalan-jalan di Jakarta.</item>
+        <item>Gereja Katedral berlokasi tidak jauh dari Masjid Istiqlal, sehingga menjadi simbol kerukunan antar umat beragama. Gereja ini memiliki desain khas ala Eropa, dengan menara runcing khas gereja Gothic. Gereja Katedral terbuka baik untuk umat Katolik maupun pengunjung umum yang ingin melihat keindahan bangunan tersebut.\n
+            Desain Gereja Katedral yang unik dan khas juga membuatnya populer sebagai lokasi foto pre-wedding. Lokasinya yang strategis membuatnya mudah dijangkau dengan bus Trans Jakarta maupun angkutan umum.</item>
+        <item>Din Je Yuan adalah kelenteng tertua di Indonesia, yang dibangun pada tahun 1650. Kelenteng ini memiliki desain rumit yang penuh warna, dan merupakan salah satu kekayaan sejarah serta religi yang diwariskan komunitas Tionghoa. Kelenteng ini masih berfungsi sebagai tempat ibadah, tetapi pengunjung biasa bisa masuk untuk berfoto di tempat wisata ini.\n
+            Pengunjung yang tidak datang untuk beribadah boleh memotret di area tertentu, dan diharapkan bersikap hormat. Tidak ada biaya untuk masuk ke kelenteng, tetapi pengunjung bisa memberi sumbangan sekadarnya sebagai tanda hormat.\n
+            Kelenteng Din Je Yuan berlokasi di Glodok, tepatnya di Pecinan Lama. Area ini dilalui oleh berbagai kendaraan umum, seperti kereta komuter Jabodetabek, bus Trans Jakarta (koridor 1), dan bus Mayasari.</item>
+        <item>Pasar Tanah Abang Blok A dan B adalah pusat perbelanjaan grosir yang menjual berbagai pakaian murah, mulai dari busana Muslim, koleksi pakaian lelaki dan perempuan, baju anak, hingga tas, sepatu, dan jilbab. Tempat wisata di Jakarta ini terdiri dari 12 lantai, dan merupakan salah satu surga belanja murah bagi warga serta pelancong yang gemar belanja (atau ingin mencari oleh-oleh murah).\n
+            Pasar Tanah Abang juga terkenal karena menjual barang-barang kualitas ekspor dengan harga relatif murah dibandingkan dengan pusat perbelanjaan yang lebih mewah. Suasana Blok A dan Blok B yang mirip pusat perbelanjaan modern membuat pengalaman belanja Anda akan menjadi lebih nyaman.\n
+            Pasar Tanah Abang buka dari pukul 08:00 hingga 16:00. Pengunjung bisa mencapainya dengan menggunakan bus Trans Jakarta koridor 1, turun di Halte Bundaran HI, lalu naik angkutan umum ke Tanah Abang.</item>
+        <item>Sesuai dengan lokasinya yang berada di dekat Tanah Abang, Museum Tekstil memamerkan berbagai kain tradisional. Pengunjung bisa melihat kekayaan tekstil dari berbagai wilayah di Indonesia, mulai dari batik Jawa, Sumatra, Bali, dan Papua, hingga beragam kain ikat. Pengunjung juga bisa melihat beragam alat tenun, alat membatik, dan perkakas lain yang berhubungan dengan pembuatan kain tradisional.\n
+            Museum Tekstil juga memiliki koleksi tanaman yang sering dijadikan bahan pewarna atau benang tradisional. Ada juga teater mini untuk memutar film-film edukasi mengenai sejarah dan kebudayaan tekstil. Pengunjung bisa mengunjungi toko oleh-oleh untuk membeli beragam buku, kain, dan bahkan alat pembuat kain tradisional. Paviliun Batik di museum ini sering menjadi area kursus membatik atau menenun ikat untuk umum.\n
+            Tempat wisata di Jakarta ini buka setiap hari (kecuali Senin) dari pukul 09:00 hingga 15:00. Cara mencapainya sama seperti jika ingin ke area Tanah Abang, ditambah dengan berjalan kaki sedikit setelah tiba di Halte Tanah Abang (bagi pengunjung yang naik kendaraan umum).</item>
+        <item>Area kuliner malam Jalan Pecenongan membentang sepanjang 600 meter di area Sawah Besar, Jakarta Pusat. Aktif sejak pukul 18:00 hingga 02:00 dini hari, kuliner malam Pecenongan menghadirkan berbagai hidangan murah, baik yang berupa warung kaki lima maupun restoran legendaris.\n
+            Area Pecenongan memiliki restoran hidangan laut, restoran China, kios martabak, toko kue, warung sate, dan sebagainya. Ada juga warung dan restoran khas daerah seperti restoran Padang, restoran kuliner Medan, hingga warung nasi uduk. Beberapa restoran China menghidangkan daging babi untuk menjaga keaslian resep, sehingga pengunjung Muslim sebaiknya bertanya dulu.\n
+            Area kuliner Jakarta Pecenongan cukup strategis, sehingga bisa dicapai dengan mudah dengan menggunakan bus Trans Jakarta, mikrolet, dan KRL.</item>
+        <item>Tidak seperti Pecenongan, Kawasan Kuliner BSM buka dari pukul 09:00 hingga 18:00. Berlokasi di Jalan M. H. Thamrin, Jakarta Pusat, Kawasan Kuliner BSM merupakan tempat makan murah favorit warga sekitar serta pelancong. Kawasan kuliner Jakarta ini menghadirkan kios dan warung yang berderet di satu area khusus. Pengunjung bisa menyusuri jalur sempit di antara tiap kios untuk memilih hidangan.\n
+            Kawasan Kuliner BSM menghadirkan hidangan berat dan makanan ringan. Pengunjung bisa menemukan bakso, nasi goreng, aneka soto, nasi Padang, nasi uduk, pecel, sete, gudeg, gado-gado, dan sebagainya. Ada juga berbagai hidangan ringan dan kue-kue, seperti misalnya donat kentang, jamur goreng, sup buah, kentang goreng, dan beragam gorengan.\n
+            Pengunjung bisa naik bus Trans Jakarta koridor 1 (Blok M-Kota) hingga ke Halte Bank Indonesia, lalu menyeberang jalan ke dekat gedung Bank Mandiri. Dari sana, Kawasan Kuliner BSM cukup mudah ditemukan.</item>
+        <item>Pulau Tidung adalah salah satu pulau paling terkenal di gugusan Kepulauan Seribu, yang berada di lepas pantai Jakarta. Pulau Tidung terdiri dari dua pulau, Tidung Besar dan Tidung Kecil, dengan sebuah jembatan bernama Jembatan Cinta menghubungkan mereka. Jembatan tersebut sering menjadi tempat berfoto serta melihat matahari terbenam.\n
+            Di Tidung Besar, pengunjung dapat menemukan homestay, warung makan, dan tempat penyewaan sepeda yang dikelola penduduk setempat. Pulau Tidung Kecil tidak berpenghuni, namun memiliki hutan bakau dan kerap menjadi lokasi penelitian balai konservasi. Pengunjung bisa naik kapal cepat dari Dermaga Muara Angke untuk mencapai tempat wisata di Jakarta yang satu ini.</item>
+        <item>Pulau Semak Daun adalah salah satu pulau kecil di Kepulauan Seribu yang populer sebagai tempat berkemah. Tempat wisata di Jakarta ini memiliki pantai berpasir putih, perairan jernih, terumbu karang, serta area yang cocok untuk berkemah. Pengunjung bisa menyewa tenda serta membeli air minum jika ingin berkemah. Snorkeling adalah kegiatan populer di pulau ini.\n
+            Pulau Semak Daun juga memiliki tempat penangkaran penyu dan hiu. Jika ingin menjelajahi pulau dengan lebih nyaman, pengunjung sebaiknya datang berkelompok dan menanggung biaya naik kapal serta penyewaan perangkat snorkeling bersama. Pantai Marina Jaya Ancol memiliki kapal Pelni yang melayani rute Jakarta – Pulau Pramuka. Dari Pulau Pramuka, pengunjung bisa menyewa kapal kecil untuk mengunjungi Semak Daun.</item>
+        <item>Pulau Bidadari adalah pulau kecil di Kepulauan Seribu yang terkenal sebagai area konservasi alam. Pulau ini memiliki hutan bakau, berbagai pohon langka seperti santigi dan kepuh, serta hewan-hewan seperti rusa totol, lumba-lumba, dan elang. Pulau ini juga memiliki area resort apung, lengkap dengan kabin-kabin kayu bergaya tradisional yang berdiri di atas tonggak-tonggak di air.\n
+            Pulau Bidadari merupakan salah satu pulau yang pernah dijadikan pos pengawas oleh militer Belanda. Penyuka wisata sejarah bisa mengunjungi reruntuhan benteng dan pos pengawas di pulau ini. Pengunjung bisa naik kapal dari Pantai Marina Ancol untuk mencapai tempat wisata di Jakarta yang satu ini.</item>
+    </string-array>
+
+    <string-array name="data_judul">
+        <item>Taman Mini Indonesia Indah</item>
+        <item>Pantai Ancol</item>
+        <item>Ocean Dream Samudra</item>
+        <item>Dunia Fantasi</item>
+        <item>Allianz Ecopark</item>
+        <item>Alive Museum</item>
+        <item>Pasar Seni Ancol</item>
+        <item>Pantai Marunda</item>
+        <item>Waterbom</item>
+        <item>Taman Wisata Alam Mangrove Angke Kapuk</item>
+        <item>Kebun Binatang Ragunan</item>
+        <item>Museum Nasional Indonesia</item>
+        <item>Museum Fatahillah</item>
+        <item>Museum Wayang</item>
+        <item>Monumen Nasional</item>
+        <item>Masjid Istiqlal</item>
+        <item>Gereja Katedral</item>
+        <item>Kelenteng Jin De Yuan</item>
+        <item>Pasar Tanah Abang Blok A dan Blok B</item>
+        <item>Museum Tekstil</item>
+        <item>Kuliner Malam Pecenongan</item>
+        <item>Kawasan Kuliner BSM</item>
+        <item>Pulau Tidung</item>
+        <item>Pulau Semak Daun</item>
+        <item>Pulau Bidadari</item>
+    </string-array>
+</resources>
